@@ -1,6 +1,6 @@
 from django.db import models
-from accounts.models import Clients
-from admin.models import admins
+from accounts.models import Clients , admins
+
 
 # Create your models here.
 
